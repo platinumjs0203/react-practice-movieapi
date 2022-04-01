@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-movieapi/static/css/main.90744669.css",
+    "main.js": "/react-practice-movieapi/static/js/main.10b6b9ad.js",
+    "index.html": "/react-practice-movieapi/index.html",
+    "main.90744669.css.map": "/react-practice-movieapi/static/css/main.90744669.css.map",
+    "main.10b6b9ad.js.map": "/react-practice-movieapi/static/js/main.10b6b9ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90744669.css",
+    "static/js/main.10b6b9ad.js"
+  ]
+}
